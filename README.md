@@ -1,16 +1,33 @@
-# calories_counter
 
-A new Flutter application.
+# Health Calculator App
+Health Calculator is an flutter application through which users can get to know their health wise data from the application.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Light/dark mode toggle
+- Login & sign up with 
+- Cross platform
+- Calculators included
+- - BMI Calculator
+- - Body Fat percentage
+- - Calories intake 
+- - Ideal Weight Calculator
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tech stack
+
+- Flutter 
+
+
+
+
+
+## Screenshots
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikneshwaran-c-r-632072185/)
+
