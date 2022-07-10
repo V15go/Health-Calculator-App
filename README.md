@@ -1,6 +1,6 @@
 
 # Health Calculator App
-Health Calculator is an flutter application through which users can get to know their health wise data from the application.
+Health Calculator is a flutter application through which users can get to know their health wise data from the application.
 
 
 
